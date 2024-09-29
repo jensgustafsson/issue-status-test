@@ -24,7 +24,7 @@ const Footer = () => (
     <div></div>
     <Branding
       visible={process.env.REACT_APP_BRANDING !== "false"}
-      href="https://github.com/tadhglewis/issue-status"
+      href="https://github.com/jensgustafsson/issue-status-test"
       rel="noopener"
       target="_blank"
     >
